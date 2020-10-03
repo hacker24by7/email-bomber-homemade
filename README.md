@@ -1,7 +1,7 @@
- # email-bomber-homemade
+  # email-bomber-homemade
 this is email bomber repository feel free to contribute
 
-##building 
+## building 
 clone this repo 
 
 install python 3 on windows 
@@ -14,7 +14,7 @@ cd email-bomber-homemade
 
  pyinstaller --onefile bomber.py 
  
- ##instructions 
+ ## instructions 
  <a href="https://github.com/hacker24by7/email-bomber-homemade/releases/download/1.0.1/bomber.exe"> 
  download latest stable version 
  </a>
