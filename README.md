@@ -15,7 +15,7 @@ cd email-bomber-homemade
  pyinstaller --onefile bomber.py 
  
  ## instructions 
- <a href="https://github.com/hacker24by7/email-bomber-homemade/releases/download/1.0.1/bomber.exe"> 
+ <a href="https://github.com/hacker24by7/email-bomber-homemade/releases/download/1.0.2/bomber.-.-.v.1.0.2.-.windows.exe"> 
  download latest stable version 
  </a>
  enable less secure mode of gmail account 
